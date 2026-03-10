@@ -1,6 +1,6 @@
 # AudioToText
 
-[![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge)](https://colab.research.google.com/github/Carleslc/AudioToText/blob/master/AudioToText.ipynb)
+[![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge)]([https://colab.research.google.com/github/Carleslc/AudioToText/blob/master/AudioToText.ipynb](https://colab.research.google.com/drive/118mJ5DUyT2DivYTDb9oKWTmSWF6ofZj3?usp=sharing))
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/carleslc)
 
